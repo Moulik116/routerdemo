@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer className="footer">
             <div className="container">
-                <p>Made by Mayank Jaiswal</p>
+                <p>Made By Moulik Paliwal</p>
             </div>
         </footer>
     );
